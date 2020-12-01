@@ -1,6 +1,6 @@
 # Lucas Gonçalves
 
-Developer with almost 4 years of relevant experience, having worked in different environments, using different languages and technologies, including the functions of Backend Developer, Tester, Database Analyst and FullStack Developer.
+Developer with almost 5 years of relevant experience, having worked in different environments, using different languages and technologies, including the functions of Backend Developer, Tester, Database Analyst and FullStack Developer.
 
 :house: Living in Florianópolis. Santa Catarina, Brazil.  
 :hammer: Working homeoffice as backend Node Developer on Compasso Uol https://compasso.com.br/.  
