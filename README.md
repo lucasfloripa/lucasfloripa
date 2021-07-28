@@ -3,7 +3,7 @@
 Developer with more than 5 years of relevant experience, having worked in different environments, using different languages and technologies, including the functions of Developer Backend Java and Node, Developer Frontend React, Developer FullStack React/Node, Database Analist and Tester.
 
 :house: Living in Florianópolis. Santa Catarina, Brazil.  
-:hammer: Working homeoffice as backend Node Developer on Compasso Uol https://compasso.com.br/.  
+:hammer: Working homeoffice as backend Node Developer and Tech Leader at Calindra https://calindra.tech/.  
 :books: Learning alot of typescript, disign principles and patterns.  
 :eyes: Looking for freelance works
 
