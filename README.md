@@ -5,7 +5,7 @@
 Developer with more than 5 years of relevant experience, having worked in different environments, using different languages and technologies, including the functions of Developer Backend Java and Node, Developer Frontend React, Developer FullStack React/Node, Database Analist and Tester.
 
 :house: Living in Florianópolis. Santa Catarina, Brazil.  
-:hammer: Working homeoffice as Full Stack Javascript Developer as a freelancer.  
+:hammer: Working homeoffice as Full Stack Javascript Developer.  
 :books: Right now im studying alot of typescript, cloud, message-brokers and the tecnologies around then, like GraphQL, NestJS, AWS and Kafka.  
 :eyes: Looking everyday to become a better Developer!
 
